@@ -145,7 +145,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/my-old-ai-assistant.git
+   git clone https://github.com/kremilly/LuanaAI.git
    cd my-old-ai-assistant
    ```
 2. **Create a virtual environment**:
